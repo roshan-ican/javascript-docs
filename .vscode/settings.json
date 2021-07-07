@@ -1,0 +1,5 @@
+{
+    "github.copilot.autocomplete.enable": true,
+    "github.copilot.autocomplete.count": 6,
+    "github.copilot.inlineSuggest.count": 6
+}
